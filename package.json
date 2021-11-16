@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/node": "^12.7.12",
-    "aws-sdk": "^2.546.0",
+    "aws-sdk": "^2.814.0",
     "typescript": "^3.7.0-dev.20191010"
   }
 }
